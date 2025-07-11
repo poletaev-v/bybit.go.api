@@ -1,10 +1,11 @@
 package bybit_connector_test
 
 import (
+	bybit_connector "github.com/poletaev-v/bybit.go.api"
 	"net/http"
 	"testing"
 
-	"github.com/bybit-exchange/bybit.go.api/models"
+	"github.com/poletaev-v/bybit.go.api/models"
 	"github.com/stretchr/testify/suite"
 )
 

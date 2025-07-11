@@ -2,8 +2,8 @@ package bybit_connector
 
 import (
 	"context"
-	"github.com/bybit-exchange/bybit.go.api/handlers"
-	"github.com/bybit-exchange/bybit.go.api/models"
+	"github.com/poletaev-v/bybit.go.api/handlers"
+	"github.com/poletaev-v/bybit.go.api/models"
 	"net/http"
 )
 
